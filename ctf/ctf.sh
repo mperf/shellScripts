@@ -1,7 +1,7 @@
 #!/bin/bash
 
 #directory where all challenges are stored
-cd /Users/perf/Documents/coding/ctf
+cd /Users/username/Documents/coding/ctf
 
 #creating a directory named as the first argument
 mkdir $1
@@ -20,7 +20,7 @@ then
 else
 
     # copy the challenge files to the directory
-    cp /Users/perf/Downloads/$2 .
+    cp /Users/username/Downloads/$2 .
 
 fi 
 
