@@ -1,0 +1,4 @@
+#directory path for your ctf storage
+storage=/Users/username/Documents/coding/ctf
+#folder from where the files will be taken
+files=/Users/username/Downloads
